@@ -1,0 +1,25 @@
+{
+  "name": "RNQrGenerator",
+  "version": "1.1.4",
+  "summary": "React native QR Code generator",
+  "license": "MIT",
+  "authors": {
+    "name": "Gevorg Gasparyan",
+    "email": "gevorg994@gmail.com"
+  },
+  "homepage": "https://github.com/gevgasparyan/rn-qr-generator#readme",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/gevorg94/rn-qr-generator.git",
+    "tag": "master"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

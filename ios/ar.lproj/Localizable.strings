@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  HesabeMerchant
+
+  Created by pramod yadav on 25/02/21.
+  
+*/
+"Quick Invoice" = "فاتورة ملخصة" ;
+"Send an Invoice in 3 easy steps" = "أرسل فاتورة في 3 خطوات سهلة" ;
+"Open Invoice" = "فتح فاتورة" ;
+"Create an Invoice with Fixed or Open amounts and share via QR code" = "قم بإنشاء فاتورة بمبالغ ثابتة أو مفتوحة ومشاركتها عبر رمز الاستجابة السريعة";
+"Reports" = "التقارير" ;
+"View and download comprehensive reports" = "عرض و تحميل التقارير شامل" ;
+"Share Invoice" = "مشاركة الفاتورة" ;
+"Share invoices via SMS, WhatsApp, Email, Link and QR Code" = "مشاركة الفاتورة عن طريق SMS او البريد الإلكتروني او الموقع او رمز الQR" ;
+"Skip" = "تخطي";
+"Get Started" = "ابداء الأن";
+"Logintocontinue" = "تسجيل الدخول للمتابعة" ;
+"Username" = "اسم المستخدم" ;
+"Password" = "كلمة المرور" ;
+"ForgotPassword" = "نسيان كلمة المرور؟";
+"Login" = "تسجيل الدخول" ;
+"PasswordReset" = "إعادة تعيين كلمة المرور" ;
+"Cancel" = "يلغي" ;
+"Submit" = "يقدم" ;
+"ResetPassword" = "إعادة تعيين كلمة المرور" ;
+"Entersecretcodereceivedonemail" = "أدخل الرمز السري الذي تم استلامه على البريد الإلكتروني" ;
+"Enternewpassword" = "أدخل كلمة مرور جديدة" ;
+"Confirmnewpassword" = "تأكيد كلمة المرور الجديدة";
+"Oops! That Username/Password combination is not valid." = "وجه الفتاة! تركيبة اسم المستخدم / كلمة المرور هذه غير صالحة.";
+"Oops ! The password confirmation does not match" = "وجه الفتاة ! تأكيد كلمة المرور غير متطابق";
+"Password Format: One Uppercase, One Lowercase, One Number and One symbol" = "تنسيق كلمة المرور: حرف كبير واحد ، وحرف صغير واحد ، ورقم واحد ، ورمز واحد";
+"Oops! code is empty" = "وجه الفتاة! هذا البريد الإلكتروني غير صالح";
+"Oops! new password confirm password not matched" = "وجه الفتاة! كلمة المرور الجديدة تأكيد كلمة المرور غير متطابقة";
+"This User doesn't exist in our system" = "هذا المستخدم غير موجود في نظامنا";
+"Oops! That email is not valid" = "وجه الفتاة! هذا البريد الإلكتروني غير صالح";
+"The password format is invalid." = "تنسيق كلمة المرور غير صالح.";
+"Please wait before retrying." = "الرجاء الانتظار قبل إعادة المحاولة.";
+"Invalid OTP" = "OTP غير صحيح";
+"English" = "الإنجليزية";
+"Arabic" = "عربى";
+"New version" = "نسخة جديدة";
+"Not now" = "ليس الان";
+"Update" = "تحديث";
+"A new version of %@ is available on AppStore. Update now!" = "يتوفر إصدار جديد من %@ على متجر التطبيقات. تحديث الان!";

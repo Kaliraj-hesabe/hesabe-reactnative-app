@@ -1,0 +1,6 @@
+module Pods_HesabeMerchant {
+  umbrella header "Pods-HesabeMerchant-umbrella.h"
+
+  export *
+  module * { export * }
+}

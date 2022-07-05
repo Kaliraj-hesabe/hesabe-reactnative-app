@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097.2" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="CAO-Vm-95f">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="Hho-Eh-CYj">
+            <objects>
+                <viewController id="CAO-Vm-95f" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" semanticContentAttribute="forceLeftToRight" id="ntI-92-0Pr">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" semanticContentAttribute="forceLeftToRight" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="zmm-V0-KYP">
+                                <rect key="frame" x="20" y="288.5" width="250" height="90"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="90" id="DXR-vm-NhJ"/>
+                                    <constraint firstAttribute="width" constant="250" id="MUg-dP-y54"/>
+                                </constraints>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" semanticContentAttribute="forceLeftToRight" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Drop" translatesAutoresizingMaskIntoConstraints="NO" id="84I-5p-BSe">
+                                <rect key="frame" x="279" y="133" width="135" height="601"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="135" id="BkU-uN-gVR"/>
+                                    <constraint firstAttribute="height" constant="601" id="tVV-bW-6hR"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" semanticContentAttribute="forceLeftToRight" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Online Payment Service" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1AM-S3-dwG">
+                                <rect key="frame" x="20" y="388.5" width="181.5" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="wXu-fi-vF6"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.59215686274509804" green="0.58431372549019611" blue="0.6588235294117647" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bg" translatesAutoresizingMaskIntoConstraints="NO" id="ZwA-WW-2ht">
+                                <rect key="frame" x="0.0" y="-90" width="375" height="757"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="zmm-V0-KYP" firstAttribute="leading" secondItem="h4y-vl-K3y" secondAttribute="leading" constant="20" id="SfF-vV-Udg"/>
+                            <constraint firstItem="84I-5p-BSe" firstAttribute="centerY" secondItem="ntI-92-0Pr" secondAttribute="centerY" constant="100" id="be6-o7-pYK"/>
+                            <constraint firstItem="1AM-S3-dwG" firstAttribute="top" secondItem="zmm-V0-KYP" secondAttribute="bottom" constant="10" id="d3P-FP-NO1"/>
+                            <constraint firstItem="zmm-V0-KYP" firstAttribute="centerY" secondItem="ntI-92-0Pr" secondAttribute="centerY" id="gXa-44-d0n"/>
+                            <constraint firstItem="1AM-S3-dwG" firstAttribute="leading" secondItem="h4y-vl-K3y" secondAttribute="leading" constant="20" id="iN9-mz-q4W"/>
+                            <constraint firstAttribute="trailing" secondItem="84I-5p-BSe" secondAttribute="trailing" constant="-39" id="xzk-m5-ZpK"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="h4y-vl-K3y"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="UuY-6f-a2Z" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="205.59999999999999" y="253.2233883058471"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Drop" width="35" height="299"/>
+        <image name="bg" width="297" height="643"/>
+        <image name="logo" width="77" height="30"/>
+    </resources>
+</document>

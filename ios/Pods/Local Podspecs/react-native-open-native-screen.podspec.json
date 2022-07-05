@@ -1,0 +1,26 @@
+{
+  "name": "react-native-open-native-screen",
+  "version": "0.0.4",
+  "summary": "React Native module for open Android activty and Ios view controller",
+  "description": "react-native-open-native-screen",
+  "homepage": "https://github.com/github_account/react-native-open-native-screen",
+  "license": "MIT",
+  "authors": {
+    "Your Name": "yourname@email.com"
+  },
+  "platforms": {
+    "ios": "9.0",
+    "tvos": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/github_account/react-native-open-native-screen.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "ios/**/*.{h,m,swift}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

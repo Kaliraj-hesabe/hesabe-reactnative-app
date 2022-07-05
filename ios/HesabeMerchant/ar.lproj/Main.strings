@@ -1,0 +1,90 @@
+
+/* Class = "UILabel"; text = "Open Invoice"; ObjectID = "2Kc-m8-TXg"; */
+"2Kc-m8-TXg.text" = "Open Invoice";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "2UJ-Jw-2Sl"; */
+"2UJ-Jw-2Sl.normalTitle" = "Skip";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "3lP-bZ-FIn"; */
+"3lP-bZ-FIn.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "6Y5-si-OuK"; */
+"6Y5-si-OuK.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Share Invoice"; ObjectID = "C50-Hs-dEf"; */
+"C50-Hs-dEf.text" = "Share Invoice";
+
+/* Class = "UILabel"; text = "Arabic"; ObjectID = "Cko-mx-8Q0"; */
+"Cko-mx-8Q0.text" = "Arabic";
+
+/* Class = "UILabel"; text = "Quick Invoice"; ObjectID = "GAy-Q5-uI0"; */
+"GAy-Q5-uI0.text" = "Quick Invoice";
+
+/* Class = "UITextField"; placeholder = "Enter secret code received on e-mail"; ObjectID = "IKN-jG-R8s"; */
+"IKN-jG-R8s.placeholder" = "Enter secret code received on e-mail";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "JxO-57-FD9"; */
+"JxO-57-FD9.normalTitle" = "Skip";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "LiJ-ZF-AqT"; */
+"LiJ-ZF-AqT.normalTitle" = "Skip";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "Q6y-n1-uJb"; */
+"Q6y-n1-uJb.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "QGf-Bn-JAg"; */
+"QGf-Bn-JAg.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Create an Invoice with Fixed or Open amounts and share via QR code"; ObjectID = "Vle-Xe-UM1"; */
+"Vle-Xe-UM1.text" = "Create an Invoice with Fixed or Open amounts and share via QR code";
+
+/* Class = "UILabel"; text = "Send an Invoice in 3 easy steps"; ObjectID = "XEX-bT-tUP"; */
+"XEX-bT-tUP.text" = "Send an Invoice in 3 easy steps";
+
+/* Class = "UILabel"; text = "Reports"; ObjectID = "ZUU-Mk-Laa"; */
+"ZUU-Mk-Laa.text" = "Reports";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "cyX-Z2-LPz"; */
+"cyX-Z2-LPz.normalTitle" = "Get Started";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "g1U-r7-fa5"; */
+"g1U-r7-fa5.normalTitle" = "Reset Password";
+
+/* Class = "UITextField"; placeholder = "Enter new password"; ObjectID = "gDo-g2-6Cz"; */
+"gDo-g2-6Cz.placeholder" = "Enter new password";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "haX-Uo-Lpl"; */
+"haX-Uo-Lpl.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "hpO-dt-lJv"; */
+"hpO-dt-lJv.normalTitle" = "Skip";
+
+/* Class = "UILabel"; text = "Share invoices via SMS, WhatsApp, Email, Link and QR Code"; ObjectID = "pEj-gz-4BO"; */
+"pEj-gz-4BO.text" = "Share invoices via SMS, WhatsApp, Email, Link and QR Code";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "pL0-H0-Alg"; */
+"pL0-H0-Alg.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Password Reset"; ObjectID = "pxn-Rx-uNJ"; */
+"pxn-Rx-uNJ.text" = "Password Reset";
+
+/* Class = "UILabel"; text = "View and download comprehensive reports"; ObjectID = "pye-gc-8Ro"; */
+"pye-gc-8Ro.text" = "View and download comprehensive reports";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "qw7-UX-14N"; */
+"qw7-UX-14N.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Password Reset"; ObjectID = "sLX-s9-sA0"; */
+"sLX-s9-sA0.text" = "Password Reset";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "spe-PP-li3"; */
+"spe-PP-li3.normalTitle" = "Submit";
+
+/* Class = "UITextField"; placeholder = "Confirm new password"; ObjectID = "vRZ-Pr-Sb2"; */
+"vRZ-Pr-Sb2.placeholder" = "Confirm new password";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "xDQ-UJ-48F"; */
+"xDQ-UJ-48F.text" = "English";
+
+/* Class = "UILabel"; text = "Login to continue"; ObjectID = "zzt-3Q-SgS"; */
+"zzt-3Q-SgS.text" = "Login to continue";

@@ -1,0 +1,48 @@
+rootProject.name = 'HesabeMerchant'
+include ':react-native-kill-app'
+project(':react-native-kill-app').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-kill-app/android')
+include ':react-native-ssl-pinning'
+project(':react-native-ssl-pinning').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-ssl-pinning/android')
+include ':react-native-check-notification-enable'
+project(':react-native-check-notification-enable').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-check-notification-enable/android')
+include ':react-native-quick-actions'
+project(':react-native-quick-actions').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-quick-actions/android')
+include ':react-native-quick-actions'
+project(':react-native-quick-actions').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-quick-actions/android')
+include ':react-native-quick-actions'
+project(':react-native-quick-actions').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-quick-actions/android')
+include ':react-native-open-native-screen'
+project(':react-native-open-native-screen').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-open-native-screen/android')
+include ':@react-native-community_netinfo'
+project(':@react-native-community_netinfo').projectDir = new File(rootProject.projectDir, '../node_modules/@react-native-community/netinfo/android')
+include ':@react-native-community_netinfo'
+project(':@react-native-community_netinfo').projectDir = new File(rootProject.projectDir, '../node_modules/@react-native-community/netinfo/android')
+include ':@react-native-community_cameraroll'
+project(':@react-native-community_cameraroll').projectDir = new File(rootProject.projectDir, '../node_modules/@react-native-community/cameraroll/android')
+include ':react-native-gesture-handler'
+project(':react-native-gesture-handler').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-gesture-handler/android')
+include ':react-native-vector-icons'
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
+include ':react-native-image-picker'
+project(':react-native-image-picker').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-image-picker/android')
+include ':react-native-vector-icons'
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
+include ':react-native-keychain'
+project(':react-native-keychain').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-keychain/android')
+include ':unimodules-core'
+project(':unimodules-core').projectDir = new File(rootProject.projectDir, '../node_modules/@unimodules/core/android')
+include ':@react-native-community_cameraroll'
+project(':@react-native-community_cameraroll').projectDir = new File(rootProject.projectDir, 	'../node_modules/@react-native-community/cameraroll/android')
+include ':rn-qr-generator'
+project(':rn-qr-generator').projectDir = new File(rootProject.projectDir, 	'../node_modules/rn-qr-generator/android')
+include ':realm'
+project(':realm').projectDir = new File(rootProject.projectDir, '../node_modules/realm/android')
+include ':react-native-fs'
+project(':react-native-fs').projectDir = new File(settingsDir, '../node_modules/react-native-fs/android')
+include ':react-native-open-native-screen'
+project(':react-native-open-native-screen').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-open-native-screen/android')
+
+
+
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app', ':liquid-swipe'

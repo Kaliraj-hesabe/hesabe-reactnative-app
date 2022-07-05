@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">HesabeMerchant</string>
+    <string name="online_payment_service">Online Payment Service</string>
+    <string name="skip">Skip</string>
+    <string name="quick_invoice">Quick Invoice</string>
+    <string name="send_an_invoice_in_3_easy_steps">Send an Invoice in 3 easy steps</string>
+    <string name="open_invoice">Open Invoice</string>
+    <string name="create_an_invoice_with_fixed_or_open_namounts_and_share_via_qr_code">Create an Invoice with Fixed or Open\namounts and share via QR code</string>
+    <string name="reports">Reports</string>
+    <string name="view_and_download_comprehensive_nreports">View and download comprehensive\nreports</string>
+    <string name="share_invoice">Share Invoice</string>
+    <string name="share_invoices_via_sms_whatsapp_nemail_link_and_qr_code">Share invoices via SMS, WhatsApp,\nEmail, Link and QR Code</string>
+    <string name="get_started">Get Started</string>
+    <string name="password_reset">Password Reset</string>
+    <string name="submit">Submit</string>
+    <string name="enter_secret_code_received_on_e_mail">Enter secret code received on e-mail</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="confirm_new_password">Confirm new password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_the_email">Enter the email</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="Username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="forgoterror">This User doesn\'t exist in our system</string>
+    <string name="press_back_again">Please click BACK again to exit.</string>
+    <string name="incorrect_creds">Oops! That Username/Password combination is not valid.</string>
+    <string name="invalid_email">Oops! That email is not valid</string>
+    <string name="oops_code_is_empty">Oops! code is empty</string>
+    <string name="password_does_not_matched">Oops ! The password confirmation does not match</string>
+    <string name="password_format_case">Password Format: One Uppercase, One Lowercase, One Number and One symbol</string>
+    <string name="invalid_response">Invalid Response</string>
+</resources>

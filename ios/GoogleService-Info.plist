@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>901729024626-5e9ak1ao309lbkp15sp69h4avbiiv8uv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.901729024626-5e9ak1ao309lbkp15sp69h4avbiiv8uv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBcvj97O4yd7arPSwiJMSGjuFdeTpWJyYU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>901729024626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.track.hesabe.Hesabe-Merchant</string>
+	<key>PROJECT_ID</key>
+	<string>hesabemerchant-3d9d8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hesabemerchant-3d9d8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:901729024626:ios:8d1ecebd3d9a404a6a20eb</string>
+</dict>
+</plist>

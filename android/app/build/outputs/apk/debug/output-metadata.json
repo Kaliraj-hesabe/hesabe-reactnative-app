@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.hesabemerchant",
+  "variantName": "processDebugResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 12,
+      "versionName": "9.0.1",
+      "outputFile": "HesabeMerchant-9.0.1.apk"
+    }
+  ]
+}

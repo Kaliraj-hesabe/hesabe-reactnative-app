@@ -1,0 +1,1166 @@
+[
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_logo_hesabe.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xxxhdpi/logo_hesabe.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xhdpi_ic_general_email_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xhdpi/ic_general_email_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night_bg_edit_text.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night/bg_edit_text.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_lines_switching_4.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/lines_switching_4.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_eye.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-mdpi/ic_eye.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_ic_profile_inactive.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/ic_profile_inactive.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_illustration_send_invoce.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/illustration_send_invoce.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_create_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/create_invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_logo_hesabe_white.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/logo_hesabe_white.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_secret_code.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/ic_secret_code.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_illustration_share.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/illustration_share.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_radio_lang_select.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/radio_lang_select.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_default.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/btn_default.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_radio_lang_select.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/radio_lang_select.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_lines_switching_3.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/lines_switching_3.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_radio_lang_select.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/radio_lang_select.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable_rounded_rectangle.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable/rounded_rectangle.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_ic_secret_code.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/ic_secret_code.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_radio_lang_unselect.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/radio_lang_unselect.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_lines_switching_4.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/lines_switching_4.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_logo_hesabe_white.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/logo_hesabe_white.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_radio_lang_unselect.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/radio_lang_unselect.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_logo_hesabe_white.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/logo_hesabe_white.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_rectangle_bg.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/rectangle_bg.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_lines_switching_1.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/lines_switching_1.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_general_password_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xxxhdpi/ic_general_password_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_eye.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xhdpi/ic_eye.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_illustration_send_invoce.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/illustration_send_invoce.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xhdpi_logo_hesabe.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xhdpi/logo_hesabe.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_ic_secret_code.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/ic_secret_code.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_face_id.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/face_id.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_illustration_share.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/illustration_share.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_bg_blue_theme.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/bg_blue_theme.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night_show_password_selector.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night/show_password_selector.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_lines_switching_3.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/lines_switching_3.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_rectangle_bg.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/rectangle_bg.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_eye_hide.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xxxhdpi/ic_eye_hide.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_lines_switching_1.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/lines_switching_1.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_illustration_qr.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/illustration_qr.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_lines_switching_4.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/lines_switching_4.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_lines_switching_3.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/lines_switching_3.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/layout_fragment_user_login.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/layout/fragment_user_login.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable_bg_selector.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable/bg_selector.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_rectangle_bg.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/rectangle_bg.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-hdpi_logo_hesabe12.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-hdpi/logo_hesabe12.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_lines_switching_2.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/lines_switching_2.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_lines_switching_2.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/lines_switching_2.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_radio_lang_unselect.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/radio_lang_unselect.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_rectangle_bg.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/rectangle_bg.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/layout_fragment_tutorial_2.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/layout/fragment_tutorial_2.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_radio_lang_select.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/radio_lang_select.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_illustration_share.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/illustration_share.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_illustration_qr.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/illustration_qr.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_illustration_qr.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/illustration_qr.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night_rb_lang.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night/rb_lang.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xxxhdpi_ic_eye_hide.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xxxhdpi/ic_eye_hide.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_rectangle_bg.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/rectangle_bg.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_face_id.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/face_id.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_radio_lang_unselect.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/radio_lang_unselect.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xhdpi_ic_general_password_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xhdpi/ic_general_password_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_illustration_send_invoce.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/illustration_send_invoce.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xxxhdpi_ic_eye.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xxxhdpi/ic_eye.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_lines_switching_4.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/lines_switching_4.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xxhdpi_ic_eye.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xxhdpi/ic_eye.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_logo_hesabe_white.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/logo_hesabe_white.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_logo_hesabe_white.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/logo_hesabe_white.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night_rounded_rectangle.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night/rounded_rectangle.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_face_id.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/face_id.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_illustration_share.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/illustration_share.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_eye.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-hdpi/ic_eye.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xhdpi_ic_eye.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xhdpi/ic_eye.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_radio_lang_select.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/radio_lang_select.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_lines_switching_1.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/lines_switching_1.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_logo_hesabe_white.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/logo_hesabe_white.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_radio_lang_select.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/radio_lang_select.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-mdpi_logo_hesabe12.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-mdpi/logo_hesabe12.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_face_id.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/face_id.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/layout_fragment_forgot_password.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/layout/fragment_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_lines_switching_2.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/lines_switching_2.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_rectangle_bg.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/rectangle_bg.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_bg_blue_theme.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/bg_blue_theme.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_secret_code.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/ic_secret_code.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xxhdpi_logo_hesabe.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xxhdpi/logo_hesabe.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-ldpi_face_id.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-ldpi/face_id.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_illustration_share.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/illustration_share.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_rectangle_bg.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/rectangle_bg.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_ic_secret_code.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/ic_secret_code.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_face_id.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/face_id.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_lines_switching_3.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/lines_switching_3.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_illustration_reports.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/illustration_reports.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-ldpi_ic_profile_inactive.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-ldpi/ic_profile_inactive.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_create_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/create_invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/layout_fragment_tutorial_3.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/layout/fragment_tutorial_3.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_eye.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xxhdpi/ic_eye.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_profile_inactive.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/ic_profile_inactive.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xhdpi_logo_hesabe12.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xhdpi/logo_hesabe12.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-mdpi_ic_launcher.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_lines_switching_3.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/lines_switching_3.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_profile_inactive.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/ic_profile_inactive.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-ldpi_create_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-ldpi/create_invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_illustration_reports.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/illustration_reports.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_ic_secret_code.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/ic_secret_code.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_rectangle_bg.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/rectangle_bg.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xxxhdpi_logo_hesabe.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xxxhdpi/logo_hesabe.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_btn_default.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/btn_default.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_illustration_send_invoce.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/illustration_send_invoce.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_logo_hesabe.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xxhdpi/logo_hesabe.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_illustration_qr.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/illustration_qr.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_illustration_share.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/illustration_share.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_logo_hesabe12.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xxxhdpi/logo_hesabe12.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_lines_switching_2.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/lines_switching_2.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_lines_switching_1.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/lines_switching_1.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/layout_fragment_tutorial_4.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/layout/fragment_tutorial_4.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_illustration_qr.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/illustration_qr.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xxhdpi_ic_eye_hide.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xxhdpi/ic_eye_hide.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_lines_switching_4.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/lines_switching_4.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_bg_blue_theme.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/bg_blue_theme.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_lines_switching_2.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/lines_switching_2.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_eye_hide.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-hdpi/ic_eye_hide.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xxxhdpi_ic_general_password_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xxxhdpi/ic_general_password_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_secret_code.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/ic_secret_code.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable_show_password_selector.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable/show_password_selector.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_illustration_share.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/illustration_share.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_ic_profile_inactive.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/ic_profile_inactive.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_profile_inactive.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/ic_profile_inactive.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xxhdpi_ic_general_email_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xxhdpi/ic_general_email_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_btn_default.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/btn_default.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_radio_lang_select.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/radio_lang_select.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_bg_blue_theme.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/bg_blue_theme.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_eye_hide.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xhdpi/ic_eye_hide.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_create_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/create_invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_btn_default.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/btn_default.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/layout_layout_custom_toast.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/layout/layout_custom_toast.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_create_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/create_invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_profile_inactive.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/ic_profile_inactive.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_illustration_reports.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/illustration_reports.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_logo_hesabe_white.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/logo_hesabe_white.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable_rb_lang.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable/rb_lang.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_radio_lang_select.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/radio_lang_select.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_create_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/create_invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_lines_switching_2.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/lines_switching_2.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-hdpi_logo_hesabe.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-hdpi/logo_hesabe.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_radio_lang_unselect.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/radio_lang_unselect.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_face_id.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/face_id.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_lines_switching_1.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/lines_switching_1.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_illustration_send_invoce.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/illustration_send_invoce.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_secret_code.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-ldpi/ic_secret_code.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_general_email_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-mdpi/ic_general_email_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-hdpi_ic_eye.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-hdpi/ic_eye.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_illustration_send_invoce.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/illustration_send_invoce.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-hdpi_ic_eye_hide.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-hdpi/ic_eye_hide.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_radio_lang_unselect.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/radio_lang_unselect.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_lines_switching_3.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/lines_switching_3.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_lines_switching_1.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/lines_switching_1.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_create_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/create_invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_rectangle_bg.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/rectangle_bg.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_default.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/btn_default.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_logo_hesabe.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xhdpi/logo_hesabe.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night_spinner_progress.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night/spinner_progress.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable_spinner_progress.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable/spinner_progress.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_illustration_reports.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/illustration_reports.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_illustration_share.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/illustration_share.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_create_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/create_invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_illustration_reports.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/illustration_reports.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_general_password_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-hdpi/ic_general_password_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_radio_lang_select.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/radio_lang_select.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-hdpi_ic_general_password_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-hdpi/ic_general_password_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-mdpi_ic_eye_hide.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-mdpi/ic_eye_hide.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_ic_secret_code.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/ic_secret_code.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-ldpi_face_id.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-ldpi/face_id.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_illustration_share.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/illustration_share.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_create_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/create_invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_radio_lang_unselect.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/radio_lang_unselect.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_lines_switching_1.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/lines_switching_1.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_general_password_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xxhdpi/ic_general_password_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-hdpi_ic_general_email_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-hdpi/ic_general_email_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_secret_code.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/ic_secret_code.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_logo_hesabe_white.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/logo_hesabe_white.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_lines_switching_4.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/lines_switching_4.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_lines_switching_2.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/lines_switching_2.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-ldpi_ic_secret_code.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-ldpi/ic_secret_code.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_lines_switching_4.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/lines_switching_4.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_bg_blue_theme.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/bg_blue_theme.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_logo_hesabe.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-hdpi/logo_hesabe.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_illustration_share.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/illustration_share.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_illustration_qr.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/illustration_qr.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_face_id.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/face_id.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-ldpi_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-ldpi/invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_illustration_qr.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/illustration_qr.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_face_id.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/face_id.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_lines_switching_3.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/lines_switching_3.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-ldpi_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-ldpi/invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_bg_blue_theme.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/bg_blue_theme.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_face_id.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/face_id.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_bg_blue_theme.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/bg_blue_theme.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_eye_hide.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xxhdpi/ic_eye_hide.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_face_id.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/face_id.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_ic_profile_inactive.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/ic_profile_inactive.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_lines_switching_3.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/lines_switching_3.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_lines_switching_1.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/lines_switching_1.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_bg_blue_theme.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/bg_blue_theme.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_ic_profile_inactive.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/ic_profile_inactive.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/layout_fragment_tutorial_1.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/layout/fragment_tutorial_1.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_general_password_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xhdpi/ic_general_password_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_illustration_send_invoce.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/illustration_send_invoce.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_illustration_send_invoce.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/illustration_send_invoce.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xxxhdpi_ic_general_email_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xxxhdpi/ic_general_email_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night_bg_selector.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night/bg_selector.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_lines_switching_3.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/lines_switching_3.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_profile_inactive.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/ic_profile_inactive.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_illustration_send_invoce.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/illustration_send_invoce.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_illustration_qr.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/illustration_qr.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/font_prompt.ttf.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/font/prompt.ttf"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-hdpi_ic_launcher.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_illustration_reports.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/illustration_reports.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_lines_switching_4.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/lines_switching_4.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_create_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/create_invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_lines_switching_4.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/lines_switching_4.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xxhdpi_ic_general_password_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xxhdpi/ic_general_password_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_radio_lang_unselect.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/radio_lang_unselect.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_bg_blue_theme.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/bg_blue_theme.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-mdpi_ic_eye.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-mdpi/ic_eye.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_lines_switching_2.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/lines_switching_2.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_lines_switching_2.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/lines_switching_2.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_radio_lang_unselect.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/radio_lang_unselect.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_logo_hesabe.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-mdpi/logo_hesabe.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_ic_profile_inactive.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/ic_profile_inactive.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_default.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/btn_default.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_illustration_reports.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/illustration_reports.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/layout_fragment_reset_password.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/layout/fragment_reset_password.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_lines_switching_1.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/lines_switching_1.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_general_email_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xhdpi/ic_general_email_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_profile_inactive.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-ldpi/ic_profile_inactive.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_lines_switching_3.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/lines_switching_3.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_logo_hesabe_white.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/logo_hesabe_white.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-mdpi_lines_switching_2.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-mdpi/lines_switching_2.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable_bg_edit_text.xml.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable/bg_edit_text.xml"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_illustration_qr.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/illustration_qr.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_general_email_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xxhdpi/ic_general_email_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-mdpi_ic_general_email_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-mdpi/ic_general_email_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-ldpi_create_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-ldpi/create_invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_blue_theme.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/bg_blue_theme.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_lines_switching_4.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/lines_switching_4.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_illustration_reports.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/illustration_reports.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_eye.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xxxhdpi/ic_eye.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_eye_hide.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-mdpi/ic_eye_hide.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_secret_code.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxhdpi/ic_secret_code.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_radio_lang_select.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/radio_lang_select.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xhdpi_ic_eye_hide.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xhdpi/ic_eye_hide.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_btn_default.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/btn_default.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_create_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/create_invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_invoice.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/invoice.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_general_email_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-hdpi/ic_general_email_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xxhdpi_logo_hesabe12.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xxhdpi/logo_hesabe12.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_radio_lang_unselect.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/radio_lang_unselect.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxxhdpi_illustration_reports.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxxhdpi/illustration_reports.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-hdpi_logo_hesabe_white.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-hdpi/logo_hesabe_white.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-mdpi_illustration_qr.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-mdpi/illustration_qr.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_btn_default.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/btn_default.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_default.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/btn_default.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_general_password_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-mdpi/ic_general_password_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-mdpi_ic_general_password_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-mdpi/ic_general_password_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-hdpi_btn_default.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-hdpi/btn_default.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_illustration_send_invoce.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xhdpi/illustration_send_invoce.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-night-mdpi_logo_hesabe.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-night-mdpi/logo_hesabe.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xhdpi_lines_switching_1.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xhdpi/lines_switching_1.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-night-xxhdpi_illustration_reports.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-night-xxhdpi/illustration_reports.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_general_email_gray_login.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/mipmap-xxxhdpi/ic_general_email_gray_login.png"
+    },
+    {
+        "merged": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_rectangle_bg.png.flat",
+        "source": "/Users/pramodyadav/Documents/ReactNativeProject/HesabeMerchant/android/app/src/main/res/drawable-xxxhdpi/rectangle_bg.png"
+    }
+]

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HesabeMerchant</string>
+    <string name="online_payment_service">Online Payment Service</string>
+    <string name="skip">تخطي</string>
+    <string name="quick_invoice">فاتورة ملخصة</string>
+    <string name="send_an_invoice_in_3_easy_steps">أرسل فاتورة في 3 خطوات سهلة</string>
+    <string name="open_invoice">فتح فاتورة</string>
+    <string name="create_an_invoice_with_fixed_or_open_namounts_and_share_via_qr_code">قم بإنشاء فاتورة بمبالغ ثابتة أو\n مفتوحة ومشاركتها عبر رمز الاستجابة السريعة</string>
+    <string name="reports">التقارير</string>
+    <string name="view_and_download_comprehensive_nreports">عرض و تحميل التقارير\n شامل</string>
+    <string name="share_invoice">مشاركة الفاتورة</string>
+    <string name="share_invoices_via_sms_whatsapp_nemail_link_and_qr_code">مشاركة الفاتورة عن طريق SMS او\n البريد الإلكتروني او الموقع او رمز الQR</string>
+    <string name="get_started">ابداء الأن</string>
+    <string name="password_reset">إعادة تعيين كلمة المرور</string>
+    <string name="submit">يقدم</string>
+    <string name="enter_secret_code_received_on_e_mail">أدخل الرمز السري الذي تم استلامه على البريد الإلكتروني</string>
+    <string name="enter_new_password">أدخل كلمة مرور جديدة</string>
+    <string name="confirm_new_password">تأكيد كلمة المرور الجديدة</string>
+    <string name="reset_password">إعادة تعيين كلمة المرور</string>
+    <string name="enter_the_email">Enter the email</string>
+    <string name="login_to_continue">تسجيل الدخول للمتابعة</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">عربى</string>
+    <string name="Username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forgot_password">نسيان كلمة المرور؟</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="cancel">يلغي</string>
+    <string name="forgoterror">هذا المستخدم غير موجود في نظامنا</string>
+    <string name="press_back_again">الرجاء النقر فوق "رجوع" مرة أخرى للخروج.</string>
+    <string name="incorrect_creds">وجه الفتاة! تركيبة اسم المستخدم / كلمة المرور هذه غير صالحة.</string>
+    <string name="invalid_email">وجه الفتاة! هذا البريد الإلكتروني غير صالح</string>
+    <string name="oops_code_is_empty">وجه الفتاة! هذا البريد الإلكتروني غير صالح</string>
+    <string name="password_does_not_matched">وجه الفتاة ! تأكيد كلمة المرور غير متطابق</string>
+    <string name="password_format_case">تنسيق كلمة المرور: حرف كبير واحد ، وحرف صغير واحد ، ورقم واحد ، ورمز واحد</string>
+    <string name="invalid_response">استجابة غير صالحة</string>
+</resources>

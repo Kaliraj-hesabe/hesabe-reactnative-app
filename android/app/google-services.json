@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "901729024626",
+    "project_id": "hesabemerchant-3d9d8",
+    "storage_bucket": "hesabemerchant-3d9d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901729024626:android:e3e75e8e541ff90d6a20eb",
+        "android_client_info": {
+          "package_name": "com.hesabemerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901729024626-mnksrejtondp4p02ii9jd4ujusl63q2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaYeh5jWM0kM4Du2xIpGwi6jgbkglI1KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901729024626-mnksrejtondp4p02ii9jd4ujusl63q2k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "901729024626-5e9ak1ao309lbkp15sp69h4avbiiv8uv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.track.hesabe.Hesabe-Merchant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

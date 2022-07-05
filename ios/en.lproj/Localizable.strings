@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  HesabeMerchant
+
+  Created by pramod yadav on 25/02/21.
+  
+*/
+"Quick Invoice" = "Quick Invoice" ;
+"Send an Invoice in 3 easy steps" = "Send an Invoice in 3 easy steps" ;
+"Open Invoice" = "Open Invoice" ;
+"Create an Invoice with Fixed or Open amounts and share via QR code" = "Create an Invoice with Fixed or Open amounts and share via QR code" ;
+"Reports" = "Reports";
+"View and download comprehensive reports" = "View and download comprehensive reports" ;
+"Share Invoice" = "Share Invoice" ;
+"Share invoices via SMS, WhatsApp, Email, Link and QR Code" = "Share invoices via SMS, WhatsApp, Email, Link and QR Code" ;
+"Skip" = "Skip" ;
+"Get Started" = "Get Started";
+"Logintocontinue" = "Login to continue" ;
+"Username" = "Username" ;
+"Password" = "Password" ;
+"ForgotPassword" = "Forgot Password?" ;
+"Login" = "Login" ;
+"PasswordReset" = "Password Reset";
+"Cancel"  = "Cancel" ;
+"Submit" = "Submit" ;
+"ResetPassword"  = "Reset Password" ;
+"Entersecretcodereceivedonemail" = "Enter secret code received on e-mail";
+"Enternewpassword"  = "Enter New Password";
+"Confirmnewpassword" = "Confirm New Password";
+"Oops! That Username/Password combination is not valid." = "Oops! That Username/Password combination is not valid.";
+"Oops! That email is not valid" = "Oops! That email is not valid";
+"Oops! code is empty" = "Oops! code is empty";
+"Oops! new password confirm password not matched" = "Oops! new password confirm password not matched";
+"Oops ! The password confirmation does not match" = "Oops ! The password confirmation does not match";
+"Password Format: One Uppercase, One Lowercase, One Number and One symbol" = "Password Format: One Uppercase, One Lowercase, One Number and One symbol";
+"This User doesn't exist in our system" = "This User doesn't exist in our system";
+"Oops! That email is not valid" = "Oops! That email is not valid";
+"The password format is invalid." = "The password format is invalid.";
+"Please wait before retrying." = "Please wait before retrying.";
+"Invalid OTP" = "Invalid OTP";
+"English" = "English";
+"Arabic" = "Arabic";
+"New version" = "New version";
+"Not now" = "Not now";
+"Update" = "Update";
+"A new version of %@ is available on AppStore. Update now!" = "A new version of %@ is available on AppStore. Update now!";
+
